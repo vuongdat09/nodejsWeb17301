@@ -1,0 +1,12 @@
+Chức năng trong projects 
+
+1 : BackEnd
+- Thêm, Xửa, Xóa
+- Signin , Signup
+- liên kết category
+
+2 : frontEnd
+- Thêm, Xửa, Xóa
+- Signin , Signup
+- liên kết category
+- hiển thị sản phẩm chi tiết 
